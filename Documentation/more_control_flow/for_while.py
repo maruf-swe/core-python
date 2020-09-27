@@ -20,3 +20,9 @@ for i in range(5, 20, 3):
 a = ['Mary', 'had', 'a', 'little', 'lamb']
 for i in range(len(a)):
     print(i,a[i])
+
+#range function and sum
+print(sum(range(4)))
+
+print(range(10))
+print(list(range(4)))
